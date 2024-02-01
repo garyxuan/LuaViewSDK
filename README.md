@@ -109,6 +109,5 @@ LuaViewSDK是一个跨iOS和Android平台的界面动态化解决方案，使用
 
 [Github Wiki](https://github.com/alibaba/LuaViewSDK/wiki)
 
-QQ群：539262083
 
 Twitter：[@luaview](https://twitter.com/luaview)
